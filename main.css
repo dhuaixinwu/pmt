@@ -26,6 +26,7 @@
 	float: left;
 	margin-left: 10px;
 	background-size: contain;
+	text-align: right;
 	}
     #h-m{
 	width: 690px;
@@ -95,7 +96,7 @@
 }
 #bodies{
 	width: 968px;
-	height: 1118px;
+	height: 1100px;
 	float: left;
 	border-radius: 10px;
 	border-left-color: #8E8E8E;
@@ -109,11 +110,11 @@
 	border-bottom-width: thin;
 }
 #b-t{
-	height: 50px;
+	height: 80px;
 	width: 968px;
 	float: left;
 	line-height: 50px;
-	font-size: 15px;
+	font-size: 35px;
 	text-align: center;
 }
 #b-b{
