@@ -55,6 +55,8 @@
 
 
 
+
+
 #neck{
 	width: 968px;
 	height: 50px;
@@ -94,6 +96,36 @@
 	line-height: 25px;
 	font-size: 12px;
 }
+
+
+
+
+#shoulder{
+	float: left;
+	height: 203px;
+}
+.menu{
+	height: 200px;
+	width: 238px;
+	margin-left: 2px;
+	float: left;
+	text-align: center;
+	border-radius: 5px;
+	color: #0D0505;
+	border-left: thin solid #8E8E8E;
+	border-right: thin solid #8E8E8E;
+	border-bottom: thin solid #8E8E8E;
+	margin-top: 2px;
+}
+.s-text{
+	font-size: 20px;
+	line-height: 50px;
+}
+
+
+
+
+
 #bodies{
 	width: 968px;
 	height: 1100px;
@@ -110,17 +142,18 @@
 	border-bottom-width: thin;
 }
 #b-t{
+	width: 968px;
+	height: 968px;
+	float: left;
+	background-image: url(images/%E7%88%B1%E5%BF%83%E5%B1%8B%E5%B9%B3%E9%9D%A2%E5%9B%BE.jpg);
+	background-size: contain;
+}
+
+#b-b{
 	height: 80px;
 	width: 968px;
 	float: left;
 	line-height: 50px;
 	font-size: 35px;
 	text-align: center;
-}
-#b-b{
-	width: 968px;
-	height: 968px;
-	float: left;
-	background-image: url(images/%E7%88%B1%E5%BF%83%E5%B1%8B%E5%B9%B3%E9%9D%A2%E5%9B%BE.jpg);
-	background-size: contain;
 }
