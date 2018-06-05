@@ -102,7 +102,7 @@
 
 #shoulder{
 	float: left;
-	height: 153px;
+	height: 163px;
 }
 .menu{
 	height: 150px;
@@ -118,6 +118,7 @@
 	margin-top: 2px;
 	line-height: 150px;
 	font-size: 50px;
+	padding-top: 10px;
 }
 
 
