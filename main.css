@@ -102,25 +102,22 @@
 
 #shoulder{
 	float: left;
-	height: 203px;
+	height: 153px;
 }
 .menu{
-	height: 200px;
+	height: 150px;
 	width: 238px;
 	margin-left: 2px;
 	float: left;
 	text-align: center;
 	border-radius: 5px;
-	color: #0D0505;
+	color: #FF0101;
 	border-left: thin solid #8E8E8E;
 	border-right: thin solid #8E8E8E;
 	border-bottom: thin solid #8E8E8E;
 	margin-top: 2px;
-}
-.s-text{
-	font-size: 20px;
-	line-height: 50px;
-	height: 50px;
+	line-height: 150px;
+	font-size: 50px;
 }
 
 
