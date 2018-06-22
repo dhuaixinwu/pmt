@@ -139,6 +139,8 @@
 	border-left-width: thin;
 	border-right-width: thin;
 	border-bottom-width: thin;
+	padding-left: 4px;
+	padding-right: 4px;
 }
 #b-t{
 	width: 968px;
@@ -152,7 +154,7 @@
 	height: 80px;
 	width: 968px;
 	float: left;
-	line-height: 50px;
-	font-size: 35px;
+	line-height: 40px;
+	font-size: 30px;
 	text-align: center;
 }
